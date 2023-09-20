@@ -199,37 +199,55 @@ EXPONENT - 2 & MATRIX SIZE - 1024
 ![image](https://github.com/harshakarnam57/HPC1/assets/64098766/9781f57b-a083-4c2b-9e1f-ccff9d7a5f35)
 
 EXPONENT - 2 & MATRIX SIZE - 512
-![image](https://github.com/harshakarnam57/HPC1/assets/64098766/5c3e81a9-126a-4b79-b521-d29de35d4b34)
-![image](https://github.com/harshakarnam57/HPC1/assets/64098766/a157785f-0436-4760-8bac-6da8093b57ce)
-![image](https://github.com/harshakarnam57/HPC1/assets/64098766/96e42d8b-5b69-457c-9311-c765d0b2263a)
-![image](https://github.com/harshakarnam57/HPC1/assets/64098766/48233d44-2d7f-4a6e-91e3-fd837dc0775e)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/21872f44-2312-4372-9fe4-ad18682e0093)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/84e49297-26a3-48c1-8a29-6485f254f0ad)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/090a70d4-5ab6-4f89-8a5c-c2907ad62dab)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/b9562132-182f-411a-9884-a9166e49f043)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/e8c07ea9-5329-4369-8891-13389327dbc9)
+
 
 EXPONENT - 8 & MATRIX SIZE - 512
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/341ea1f7-43d0-4eda-9e64-11d7a47fa4ea)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c2152df6-b9d3-4769-ac32-4182d8f9bf51)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ceb805e3-efbb-4eff-82c5-6b6b32fd549a)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ea84b3c3-3a28-4bbb-8e4f-1d6016c778d4)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/55bfa326-e5aa-429e-a13c-ae508d99e7c7)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/e72fe264-b7c8-49f8-aa69-1f588a4b177f)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/1ad07c6e-4fb1-43e6-982f-d8945bf0300d)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/73d8252f-3cdb-4280-9655-70fd9dac7161)
 
 EXPONENT - 8 & MATRIX SIZE - 1024
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/87b792a1-1760-4a2a-9e8f-c93744717013)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/5e9e1a2e-0a2f-4ea2-9f99-e4f0ed834105)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/0b7865ac-7c39-43cb-b5c3-46acf1508e8f)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/13d2ec77-8e0c-4b72-8d15-1a7818da472c)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/7c1873d4-e09f-488e-a06c-e51f9641ff9a)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/30a9d681-5aaf-41af-9da4-1fbb2ec09004)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/4a5beaa0-e36a-4f8e-a817-130620591f2a)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/7114edd4-42da-40b8-8242-143b550ec804)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/0a3fa688-9f90-451d-bb72-e7d4b957b8ab)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/e63a565d-c3f2-4bcc-9861-a5a1bda5a105)
 
 EXPONENT - 8 & MATRIX SIZE - 2048
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/6840c506-ce62-4310-a5e4-7aee0ab1f548)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/8cf20c33-02e5-43f7-8f21-81bdf35c1814)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c835c586-be55-4283-9f5b-c4413ba63e99)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/6ba4f24d-a67b-4e2a-8cb4-809e04bd9e20)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/14b75724-837a-4aa7-a71c-be90649f4f24)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/389a29aa-ae5f-4242-b033-c9a5bf3763e5)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/6c1ffb6b-8bf2-46e0-81d7-a5ce923e7bb7)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/1b242326-b127-46da-8424-ce935693721d)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/1ed68716-e54b-4154-8c57-ef23fc8e262b)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/bf7c7fad-6bc3-492c-ad4e-99430323c068)
 
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
 - in this we kept thread number as constant in each case and changed the matix sizes
 - Block size varies between 4,16,32
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/47bd9cbe-5024-4da0-8ed3-6e6990de2bf8)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ac9471b9-3bae-4889-bb5d-2afad02a8ab7)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/faf2e964-963d-4776-b67f-d503e4369b42)
+Threads constant as 8
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/a761fe56-8692-4fe8-9b9d-1c4c1f7a561c)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/1fd77cbe-c46b-4d05-9714-ee615412c35a)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/88d206cb-3c13-43df-9262-7b656ee3825b)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/ac8312f0-ca17-4074-902f-86e8368d235d)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/5c5da6c7-8809-49d6-9bc6-c7f0c74723c1)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/5f90c542-d2db-47d7-b54a-112924d19076)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/e2d2bdb6-aba2-48e2-9664-940f50cc7a10)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/0d7f0ac2-6c39-4b7c-9686-fb28f6e52c7c)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/8cf1453a-4afa-4b8c-9f9a-61a88612b13a)
 
-Threads constant as 8 
 
+Threads constant as 16
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/4c443e0d-6e95-4093-a278-f2051f885434)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/cecef442-1160-4a10-94ce-71b811030e17)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/1c50ae59-1103-47de-a649-0cd0c91b7b34)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/2c9094c4-9d66-4a30-82e7-4cc2d2eb3d2e)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/3e21827c-df79-40c7-b5a4-efe7b8b80a5b)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/66b200e1-54e7-4ee4-8218-396bbbaf10e7)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/83aebb8a-86e6-4ffb-aeba-cf35950c5ed0)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/8bf57882-c7fc-4c31-a47b-9fdf6fa21463)
+![image](https://github.com/harshakarnam57/HPC1/assets/64098766/a969e931-025b-4f1b-b136-ce384edf4ddb)
